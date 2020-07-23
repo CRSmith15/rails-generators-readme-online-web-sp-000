@@ -1,7 +1,7 @@
 class Author < ApplicationRecord
 
-  def index 
-    @authors = Author.all 
+  def index
+    @authors = Author.all
 
   end
 
